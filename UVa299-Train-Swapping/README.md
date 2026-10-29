@@ -1,0 +1,60 @@
+# UVa 299 – Train Swapping
+
+> CPE 一星題練習 · [回到目錄](../README.md)
+
+| 項目 | 內容 |
+|---|---|
+| 題目 | [UVa 299（PDF）](https://onlinejudge.org/external/2/299.pdf) |
+| CPE 出題年份 | 2011、2017 |
+| Online Judge | ✅ Accepted |
+| 語言 | C++ |
+
+## 解法（[solution.cpp](solution.cpp)）
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void swap (int *a,int *b)//交換的函式 
+{
+	int t=*a;
+	*a=*b;
+	*b=t;
+}
+
+int main()
+{
+	int i,t,n,l;
+	
+	while(cin>>n)//輸入測資數量 
+	{
+		
+		while(n--)
+		{
+			cin>>l;//輸入數列項數 
+			int num[l]={0},count=0;
+			
+			for(i=0;i<l;i++)//輸入數列 
+			{
+				cin>>num[i];
+				
+			}
+			
+			for(i=0;i<l;i++)//氣泡排列法 
+			{
+				for(t=0;t<l-i-1;t++)
+				{
+					if(num[t]>num[t+1])
+					{
+						swap(&num[t],&num[t+1]);//交換 
+						count++;//計算次數 
+					}
+				}
+			}
+			
+			cout<<"Optimal train swapping takes "<<count<<" swaps." <<endl;//輸出
+		}
+	}
+    return 0;
+}
+```
