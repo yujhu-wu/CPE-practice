@@ -1,15 +1,15 @@
 # UVa 118 – Mutant Flatworld Explorers
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 118（PDF）](https://onlinejudge.org/external/1/118.pdf) |
-| CPE 出題年份 | 2012、2018、2022 |
+| 題目 | [UVa 118(PDF)](https://onlinejudge.org/external/1/118.pdf) |
+| CPE出題年份 | 2012、2018、2022 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法（[solution.cpp](solution.cpp)）
+## 解法([solution.cpp](solution.cpp))
 
 ```cpp
 //uva118
