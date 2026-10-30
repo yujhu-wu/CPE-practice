@@ -1,15 +1,15 @@
 # UVa 490 – Rotating Sentences
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 490（PDF）](https://onlinejudge.org/external/4/490.pdf) |
-| CPE 出題年份 | 2015 |
+| 題目 | [UVa 490(PDF)](https://onlinejudge.org/external/4/490.pdf) |
+| CPE出題年份 | 2015 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法（[solution.cpp](solution.cpp)）
+## 解法([solution.cpp](solution.cpp))
 
 ```cpp
 #include <iostream>
