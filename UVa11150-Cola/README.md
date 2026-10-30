@@ -1,15 +1,15 @@
 # UVa 11150 – Cola
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 11150（PDF）](https://onlinejudge.org/external/111/11150.pdf) |
-| CPE 出題年份 | 未曾出現 |
+| 題目 | [UVa 11150(PDF)](https://onlinejudge.org/external/111/11150.pdf) |
+| CPE出題年份 | 未曾出現 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法 1（[solution_1.cpp](solution_1.cpp)）
+## 解法1([solution_1.cpp](solution_1.cpp))
 
 ```cpp
 #include <iostream>
@@ -47,7 +47,7 @@ int main(){
 }
 ```
 
-## 解法 2（[solution_2.cpp](solution_2.cpp)）
+## 解法2([solution_2.cpp](solution_2.cpp))
 
 ```cpp
 #include <iostream>
