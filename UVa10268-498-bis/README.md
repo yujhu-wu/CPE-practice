@@ -1,15 +1,15 @@
 # UVa 10268 – 498-bis
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 10268（PDF）](https://onlinejudge.org/external/102/10268.pdf) |
-| CPE 出題年份 | 2020 |
+| 題目 | [UVa 10268(PDF)](https://onlinejudge.org/external/102/10268.pdf) |
+| CPE出題年份 | 2020 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法 1（[solution_1.cpp](solution_1.cpp)）
+## 解法1([solution_1.cpp](solution_1.cpp))
 
 ```cpp
 #include <iostream>
@@ -39,7 +39,7 @@ int main() {
 }
 ```
 
-## 解法 2（[solution_2.cpp](solution_2.cpp)）
+## 解法2([solution_2.cpp](solution_2.cpp))
 
 ```cpp
 /*不知道為啥online judge一直runtime error*/
