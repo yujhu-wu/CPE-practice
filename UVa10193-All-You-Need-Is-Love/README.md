@@ -1,15 +1,15 @@
 # UVa 10193 – All You Need Is Love
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 10193（PDF）](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/10193.pdf) |
-| CPE 出題年份 | 2012 |
+| 題目 | [UVa 10193(PDF)](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/10193.pdf) |
+| CPE出題年份 | 2012 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法（[solution.cpp](solution.cpp)）
+## 解法([solution.cpp](solution.cpp))
 
 ```cpp
 #include <iostream>
