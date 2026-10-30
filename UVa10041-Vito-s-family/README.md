@@ -1,15 +1,15 @@
 # UVa 10041 – Vito’s family
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 10041（PDF）](https://onlinejudge.org/external/100/10041.pdf) |
-| CPE 出題年份 | 2024 |
+| 題目 | [UVa 10041(PDF)](https://onlinejudge.org/external/100/10041.pdf) |
+| CPE出題年份 | 2024 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法（[solution.cpp](solution.cpp)）
+## 解法([solution.cpp](solution.cpp))
 
 ```cpp
 #include <iostream>
