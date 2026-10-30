@@ -1,15 +1,15 @@
 # UVa 10221 – Satellites
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 10221（PDF）](https://onlinejudge.org/external/102/10221.pdf) |
-| CPE 出題年份 | 2019 |
+| 題目 | [UVa 10221(PDF)](https://onlinejudge.org/external/102/10221.pdf) |
+| CPE出題年份 | 2019 |
 | Online Judge | ✅ Accepted |
 | 語言 | C、C++ |
 
-## 解法 1（[solution_1.cpp](solution_1.cpp)）
+## 解法1([solution_1.cpp](solution_1.cpp))
 
 ```cpp
 #include <iostream>
@@ -42,7 +42,7 @@ int main() {
 }
 ```
 
-## 解法 2（[solution_2.c](solution_2.c)）
+## 解法2([solution_2.c](solution_2.c))
 
 ```c
 #include<stdio.h>
