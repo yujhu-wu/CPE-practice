@@ -1,14 +1,14 @@
 # CPE程式能力檢定 題目練習
 
-以 **CPE(大學程式能力檢定)一星題庫** 為主進行練習，題目來自UVa Online Judge。  
+以**CPE(大學程式能力檢定)一星題庫**為主進行練習，題目來自UVa Online Judge。  
 每題整理了題目連結、歷年CPE出題年份、Online Judge結果與程式碼。
 
-- **語言：** C/C++
-- **題數：** 50題，其中49題已通過UVa Online Judge(Accepted)
+- **語言**：C/C++
+- **題數**：50題，其中49題已通過UVa Online Judge(Accepted)
 
 ## 題目一覽
 
-| UVa | 題目 | CPE 出題年份 | Online Judge | 題目 |
+| UVa | 題目 | CPE出題年份 | Online Judge | 題目 |
 |---|---|---|---|---|
 | 100 | [The 3n + 1 problem](UVa100-The-3n-1-problem/README.md) | 2010 | ✅ | [PDF](https://onlinejudge.org/external/1/100.pdf) |
 | 118 | [Mutant Flatworld Explorers](UVa118-Mutant-Flatworld-Explorers/README.md) | 2012 2018 2022 | ✅ | [PDF](https://onlinejudge.org/external/1/118.pdf) |
