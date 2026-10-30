@@ -1,15 +1,15 @@
 # UVa 10101 – Bangla Numbers
 
-> CPE 一星題練習 · [回到目錄](../README.md)
+> CPE一星題練習 · [回到目錄](../README.md)
 
 | 項目 | 內容 |
 |---|---|
-| 題目 | [UVa 10101（PDF）](https://onlinejudge.org/external/101/10101.pdf) |
-| CPE 出題年份 | 2018 |
+| 題目 | [UVa 10101(PDF)](https://onlinejudge.org/external/101/10101.pdf) |
+| CPE出題年份 | 2018 |
 | Online Judge | ✅ Accepted |
 | 語言 | C++ |
 
-## 解法（[solution.cpp](solution.cpp)）
+## 解法([solution.cpp](solution.cpp))
 
 ```cpp
 #include <iostream>
